@@ -1,6 +1,3 @@
-# Index
-Index
-
 #include <TridentTD_LineNotify.h>
 #define SSID        "Admin-Wifi-2.4GHz"      // บรรทัดที่ 11 ให้ใส่ ชื่อ Wifi ที่จะเชื่อมต่อ
 #define PASSWORD    "seam2448860"     // บรรทัดที่ 12 ใส่ รหัส Wifi
